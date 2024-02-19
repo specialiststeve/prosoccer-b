@@ -39,3 +39,4 @@ loadAppOpenAd() {
           onAdFailedToLoad: (error) {}),
       orientation: AppOpenAd.orientationPortrait);
 }
+// this is main.dart
